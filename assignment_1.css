@@ -12,7 +12,9 @@
   font-style: normal;
 }
 /* Fonts End */
-
+body{
+  background-color: #f5f8ff;
+}
 /*Button Start*/
 .primary-button {
   background-color: #4E47FF;
@@ -129,7 +131,72 @@ h3{
 }
 /*Productive Action Container end*/
 
+/*Get In Touch Section start*/
+.form input[type="text"], footer input[type="email"], footer textarea{
+height: 64px;
+border-radius: 5px;
+background-color: color;
+display: block;
+width: 100%;
+padding: 10px 20px;
+margin-bottom: 24px;
+border: none;
+}
 
+.get-in-touch{
+  display: flex;
+  gap: 100px;
+  padding: 130px 180px;
+}
+.h2-get-in-touch{
+  font-weight: 700;
+  font-size: 97px;
+}
 
+.get-in-touch input[type="text"],  .get-in-touch input[type="email"]{
+    height: 70px;
+    background-color: white;
+    border-radius: 10px;
+    border: none;
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+}
 
+.get-in-touch textarea{
+    height: 135px;
+    background-color: white;
+    border-radius: 10px;
+    border: none;
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+}
+.get-in-touch-button{
+  background-color: #4E47FF;
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+  width: 100%;
+  padding: 10px 50px;
+  border: none;
+  border-radius: 5px;
+}
 
+label {
+  font-size: 18px;
+  font-weight: 600;
+  color: #1E1E1E;
+  margin-bottom: 10px;
+}
+
+legend {
+  font-size: 18px;
+  font-weight: 600;
+  color: #1E1E1E;
+  margin-bottom: 10px;
+}
+
+/*Get In Touch Section end*/
