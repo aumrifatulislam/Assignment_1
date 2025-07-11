@@ -27,6 +27,11 @@
 
 /*Hero section Start*/
 
+.header{
+  background-image: url(B12A01-landing-launchpad/Assets/Hero-bg.png);
+  background-position: center;
+}
+
 /*nav-bar Start*/
 nav{
 
@@ -41,8 +46,21 @@ nav{
   font-size: 34px;
   color: #4E47FF;
 }
-/*Nav-bar Start*/
+/*Nav-bar end*/
+/*Banner Start*/
+h1{
 
+  font-weight: 700;
+  font-size: 65px;
+
+}
+.banner{
+  text-align: center;
+  justify-content: space-between;
+  margin: 150px 35px 0px 0px;
+  padding: 0px 0px 150px 0px;
+}
+/*banner section end*/
 /*Hero section end*/
 
 
