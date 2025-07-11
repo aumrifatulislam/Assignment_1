@@ -200,3 +200,49 @@ legend {
 }
 
 /*Get In Touch Section end*/
+
+footer{
+
+  text-align: center;
+  background-color: #ffff;
+  padding-bottom: 50px;
+  ;
+
+}
+
+hr {
+  border: none;
+  height: 2px;
+  background-color: #ffffff;
+  margin: 20px 0;
+}
+
+.h2-footer{
+  font-weight: 800;
+  font-size: 100px;
+  color: #4E47FF;
+  margin-bottom: 0;
+}
+.p-footer{
+  font-weight: 400;
+  font-size: 11px;
+  padding-top: 5px;
+  line-height: 15px;
+}
+
+footer ul {
+  display: flex;
+  align-items: center;
+  margin-left: 520px;
+  margin-bottom: 100px;
+}
+
+footer ul li {
+  list-style: none;
+  margin-right: 50px;
+}
+
+footer li a {
+  text-decoration: none;
+  font-size: 20px;
+}
