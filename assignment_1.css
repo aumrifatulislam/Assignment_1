@@ -52,6 +52,7 @@ h1{
 
   font-weight: 700;
   font-size: 65px;
+  color: #1E1E1E;
 
 }
 .banner{
@@ -61,8 +62,36 @@ h1{
   padding: 0px 0px 150px 0px;
 }
 /*banner section end*/
+
 /*Hero section end*/
 
+/*Action Container start*/
+h2{
+  font-weight: 700;
+  font-size: 42px;
+  color: #1E1E1E;
+}
+p{
+  font-weight: 400;
+  font-size: 24px;
+  color: #8c8e98;
+}
+.action-container{
+  display: flex;
+  justify-content: space-between;
+  margin: 180px;
+}
+.action-text-container{
+  text-align: left;
+  padding: 30px 0px 0px 0px;
+
+}
+.action-image-container{
+  border:none;
+  border-radius: 48px;
+  overflow: hidden;
+}
+/*Action Container end*/
 
 
 
