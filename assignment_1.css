@@ -93,6 +93,41 @@ p{
 }
 /*Action Container end*/
 
+/*Productive Action Container start*/
+.productive-action-container{
+  background-color: rgb(78,7, 255,0.10);
+  margin: 120px;
+  border: none;
+  border-radius: 24px;
+}
+.h2-section{
+  padding: 100px 0px 0px 0px;
+  font-weight: 700;
+  font-size: 38px;
+  color: #1E1E1E;
+  text-align: center;
+}
+.productive-stats{
+  display: flex;
+  justify-content: space-around;
+}
+
+h3{
+  font-weight: 700;
+  font-size: 80px;
+  color: #4E47FF;
+  margin-bottom: 0;
+}
+
+.p-productive-stats{
+  margin-top: 4px;
+  padding: 0px 0px 100px 0px;
+  font-weight: 400;
+  font-size: 16px;
+  color: #8c8e98;
+  text-align: center;
+}
+/*Productive Action Container end*/
 
 
 
